@@ -5,16 +5,16 @@ Based on Shaun the Sheep Toilet Paper Roll Holder (Easy to Print) by e_grnsmnn a
 
 I redesigned the face and tail section from the ground up to allow for roll tube diameter variations. The base and the four legs are the same as in the original.
 
-Print Settings
-Printer brand: Bambu Lab
-Printer: Bambu P1S
-Rafts: No
-Supports: No
-Resolution: 0.2
-Infill: 15%
-Filament material: PLA
-Filament brand: Generic
-Filament color: Black
+- Print Settings
+- Printer brand: Bambu Lab
+- Printer: Bambu P1S
+- Rafts: No
+- Supports: No
+- Resolution: 0.2
+- Infill: 15%
+- Filament material: PLA
+- Filament brand: Generic
+- Filament color: Black
 
 ## How I Designed This
 
